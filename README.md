@@ -5,6 +5,7 @@
 - Overview
 - Live Demo
 - Features
+- Presentation Link
 - Technologies Used
 - File Structure
 - How to Run
@@ -15,6 +16,7 @@
 Meal Finder is a simple web application that allows users to search for meals and get detailed recipe information. The app fetches data from an external API and displays meal images, descriptions, ingredients, and video tutorials for preparation.
 
 ## Live Demo
+([Live Demo](https://meal-finder-52fl.onrender.com))
 
 ## Features
 - **Search for meals** by keyword
@@ -26,6 +28,8 @@ Meal Finder is a simple web application that allows users to search for meals an
   - Short description
   - Link to a YouTube video tutorial
 - **Responsive design** for an optimal mobile, tablet and desktop experience
+## Presentation Link
+([Presentation Link](https://www.loom.com/share/c667b495b52e4178a2bf7206416a3eb5?sid=153b94ed-67fc-4908-a080-6c874c46fc6f))
 
 ## Technologies Used
 - **HTML5 ** - For structuring the content
