@@ -1,5 +1,5 @@
 
-# Meal Finder Responsive
+# Meal Finder Responsive website
 
 ## Table of Contents
 - Overview
